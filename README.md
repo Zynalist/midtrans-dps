@@ -1,5 +1,6 @@
 # 📜 About
-Midtrans Discord Payment System for Transaction. (Be advice Opening a store at discord its against Discord ToS so use it at your own risk) 
+Midtrans Discord Payment System for Transaction. 
+(Be advice Opening a store at discord its against Discord ToS so use it at your own risk) 
 
 ## 🌐 Language
 Currently only indonesian version the english version will be release soon
